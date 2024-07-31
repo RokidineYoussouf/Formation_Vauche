@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+    httpd:
+        #image: php:8.2-apache
+        build: .
+        ports:
+            - 80:80
+        volumes:
+            - './php:/var/www/html'
+        restart: unless-stopped
+        
+        

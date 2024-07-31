@@ -1,0 +1,45 @@
+Section ;CHAPITRE;NOMENCLATURE;STATUT;CHAPITRE_LIB;ARTICLE;OPERATION;OPERATION_LIB;FONCTION;CODE_AXE_ANALYTIQUE_PROFONDEUR_1;LIBELLE_AXE_ANALYTIQUE_PROFONDEUR_1;CODE_AXE_ANALYTIQUE_PROFONDEUR_2;LIBELLE_AXE_ANALYTIQUE_PROFONDEUR_2;Réalisé total;SENS;SECTION;ANNEE
+DOF;40.0;M14;CA; Opérations d'ordre de transfert entre sections;13911(ordre).;OPFI.; Opération financière;1.0;01.; MAIRIE BUDGET PRINCIPAL;HCV.; Hors compte ventilation;29624,91;Dépense;Investissement;2022.0
+DOF;40.0;M14;CA; Opérations d'ordre de transfert entre sections;13913(ordre).;OPFI.; Opération financière;1.0;01.; MAIRIE BUDGET PRINCIPAL;HCV.; Hors compte ventilation;20950,1;Dépense;Investissement;2022.0
+DOF;40.0;M14;CA; Opérations d'ordre de transfert entre sections;13916(ordre).;OPFI.; Opération financière;1.0;01.; MAIRIE BUDGET PRINCIPAL;HCV.; Hors compte ventilation;829,3;Dépense;Investissement;2022.0
+DOF;40.0;M14;CA; Opérations d'ordre de transfert entre sections;13918(ordre).;OPFI.; Opération financière;1.0;01.; MAIRIE BUDGET PRINCIPAL;HCV.; Hors compte ventilation;917,94;Dépense;Investissement;2022.0
+DOF;40.0;M14;CA; Opérations d'ordre de transfert entre sections;192(ordre).;OPFI.; Opération financière;1.0;HCA.; Hors compte analytique;HCV.; Hors compte ventilation;4557,02;Dépense;Investissement;2022.0
+DOF;40.0;M14;CA; Opérations d'ordre de transfert entre sections;198(ordre).;OPFI.; Opération financière;1.0;HCA.; Hors compte analytique;HCV.; Hors compte ventilation;12940,65;Dépense;Investissement;2022.0
+DOF;40.0;M14;CA; Opérations d'ordre de transfert entre sections;21312(ordre).;OPFI.; Opération financière;1.0;HCA.; Hors compte analytique;HCV.; Hors compte ventilation;23737,79;Dépense;Investissement;2022.0
+DOF;40.0;M14;CA; Opérations d'ordre de transfert entre sections;21351(ordre).;OPFI.; Opération financière;1.0;HCA.; Hors compte analytique;HCV.; Hors compte ventilation;16218,18;Dépense;Investissement;2022.0
+DRI;10.0;M14;CA; Immobilisations corporelles;10226.;OPFI.; Opération financière;1.0;0111.; FINANCES;HCV.; Hors compte ventilation;17668;Dépense;Investissement;2022.0
+DRI;16.0;M14;CA; Emprunts et dettes assimilées;1641.;OPFI.; Opération financière;1.0;0111.; FINANCES;HCV.; Hors compte ventilation;1081334,63;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2031.;OPNI.; Opération non individualisée;20.0;COEUR.; VILLE COEUR DE VILLE;HCV.; Hors compte ventilation;18276;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2031.;OPNI.; Opération non individualisée;20.0;0103.; BATIMENTS COMMUNAUX;MAIRIE.; Mairie;3120;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2031.;OPNI.; Opération non individualisée;20.0;0106.; CTM;HCV.; Hors compte ventilation;29950,18;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2031.;OPNI.; Opération non individualisée;20.0;0111.; FINANCES;HCV.; Hors compte ventilation;30300;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2031.;OPNI.; Opération non individualisée;212.0;ESPACEPLURIVALENTJMOULIN.; ESPACE PLURIVALENT JEAN MOULIN;HCV.; Hors compte ventilation;6261,6;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2031.;OPNI.; Opération non individualisée;212.0;ESPACEPLURIVALENTROMBLY.; ESPACE PLURIVALENT ECOLE ROMBLY;HCV.; Hors compte ventilation;6537,6;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2031.;OPNI.; Opération non individualisée;284.0;0121.; Développement durable;HCV.; Hors compte ventilation;7200;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2051.;OPNI.; Opération non individualisée;20.0;Projeteur.; service projeteur;HCV.; Hors compte ventilation;2518,8;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2051.;OPNI.; Opération non individualisée;20.0;0101.; ADMINISTRATION GENERALE ET JURIDIQUE;AE.; Accueil / Etat civil;8737,2;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2051.;OPNI.; Opération non individualisée;20.0;0111.; FINANCES;HCV.; Hors compte ventilation;1068;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2051.;OPNI.; Opération non individualisée;20.0;0119.; COMMUNICATION;HCV.; Hors compte ventilation;12456,48;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2051.;OPNI.; Opération non individualisée;20.0;0124.; URBANISME;PROJETEUR.; Projeteur ;549,6;Dépense;Investissement;2022.0
+DRI;20.0;M14;CA; Immobilisations incorporelles;2051.;OPNI.; Opération non individualisée;20.0;0124.; URBANISME;HCV.; Hors compte ventilation;7560;Dépense;Investissement;2022.0
+DRI;204.0;M14;CA; Subventions d'équipement versées;2046.;OPNI.; Opération non individualisée;20.0;0111.; FINANCES;HCV.; Hors compte ventilation;12940,65;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;2121.;OPNI.; Opération non individualisée;511.0;01061.; POLE CADRE DE VIE ;COEUR.; Coeur de Ville;7475,99;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;2128.;OPNI.; Opération non individualisée;284.0;0121.; Développement durable;HCV.; Hors compte ventilation;2520;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;2128.;OPNI.; Opération non individualisée;338.0;01061.; POLE CADRE DE VIE ;AIRES.; DE JEUX Aires de jeux;224;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;2128.;OPNI.; Opération non individualisée;511.0;01061.; POLE CADRE DE VIE ;JARDOUV.; JARDINS OUVRIERS;448,01;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;2128.;OPNI.; Opération non individualisée;511.0;01061.; POLE CADRE DE VIE ;4.; FLEURS Label 4 FLEURS;2259,75;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;2128.;OPNI.; Opération non individualisée;511.0;01061.; POLE CADRE DE VIE ;HCV.; Hors compte ventilation;7043,77;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;2128.;OPNI.; Opération non individualisée;518.0;01061.; POLE CADRE DE VIE ;HCV.; Hors compte ventilation;1809,78;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;21311.;OPNI.; Opération non individualisée;20.0;0103.; BATIMENTS COMMUNAUX;MAIRIE.; Mairie;7031,58;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;21311.;OPNI.; Opération non individualisée;510.0;0103.; BATIMENTS COMMUNAUX;MAIRIE.; Mairie;1214,04;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;21312.;OPNI.; Opération non individualisée;20.0;0102.; EDUCATION;INSPECTION.; EDUCATION Inspection education nationale;37435,65;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;21318.;OPNI.; Opération non individualisée;510.0;0103.; BATIMENTS COMMUNAUX;ACM.; Accueil Collectif de Mineur ;2014,75;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;21318.;OPNI.; Opération non individualisée;510.0;0103.; BATIMENTS COMMUNAUX;JPINS.; Centre Jeunes Pins;1969,12;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;21321.;OPNI.; Opération non individualisée;20.0;0111.; FINANCES;HCV.; Hors compte ventilation;200000;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;21351.;OPNI.; Opération non individualisée;20.0;0103.; BATIMENTS COMMUNAUX;BAT.; GEND Bât. Gendarmerie;41962,44;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;21351.;OPNI.; Opération non individualisée;20.0;0103.; BATIMENTS COMMUNAUX;MAIRIE.; Mairie;17765,33;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;21351.;OPNI.; Opération non individualisée;20.0;0106.; CTM;HCV.; Hors compte ventilation;7567,2;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;21351.;OPNI.; Opération non individualisée;284.0;0121.; Développement durable;HCV.; Hors compte ventilation;3303,77;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;21351.;OPNI.; Opération non individualisée;314.0;0114.; MUSEE QUENTOVIC;HCV.; Hors compte ventilation;6848,96;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;21351.;OPNI.; Opération non individualisée;325.0;0112.; JEUNESSE;PUMPTRACK.; Pumptrack;197625,4;Dépense;Investissement;2022.0
+DRI;21.0;M14;CA; Immobilisations corporelles;2138.;OPNI.; Opération non individualisée;20.0;0106.; CTM;HCV.; Hors compte ventilation;11885,84;Dépense;Investissement;2022.0
